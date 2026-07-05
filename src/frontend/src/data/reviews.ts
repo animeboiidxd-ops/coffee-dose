@@ -1,0 +1,68 @@
+import type { Review } from "../types";
+
+export const reviews: Review[] = [
+  {
+    id: "r1",
+    author: "Priya S.",
+    rating: 5,
+    text: "Absolutely breathtaking! The Nutella Cappuccino was velvety perfection. The ambiance is so Instagram-worthy — every corner is a photo opportunity. Coffee Dose is in a league of its own in Jaipur. Already planning my next visit!",
+    source: "Zomato",
+    date: "April 2026",
+  },
+  {
+    id: "r2",
+    author: "Arjun K.",
+    rating: 5,
+    text: "I have been to countless cafés across India, but Coffee Dose in Pratap Nagar is genuinely special. The Tiramisu Brownie Frappe is otherworldly. Staff is warm, attentive, and genuinely passionate about what they serve. A must-visit for anyone in Jaipur.",
+    source: "Swiggy",
+    date: "April 2026",
+  },
+  {
+    id: "r3",
+    author: "Sneha R.",
+    rating: 5,
+    text: "The most beautiful café in Jaipur, hands down. The interior is warm, luxurious, and absolutely stunning. The Oreo Nutella Frappe is life-changing! Perfect place to work remotely or for a romantic date — every visit feels like a special occasion.",
+    source: "Zomato",
+    date: "March 2026",
+  },
+  {
+    id: "r4",
+    author: "Rahul M.",
+    rating: 5,
+    text: "Finally, Jaipur has a café that matches the big-city luxury vibes. Peri Peri Fries + Iced Mocha is my go-to combo. The team here clearly takes immense pride in their craft. The latte art alone is worth the visit. 10/10, no questions.",
+    source: "Zomato",
+    date: "March 2026",
+  },
+  {
+    id: "r5",
+    author: "Kavya T.",
+    rating: 5,
+    text: "Coffee Dose feels like a sanctuary. The dim warm lighting, the premium coffee aromas, the gorgeous plating — it transcends the ordinary. The Alfredo Pasta is the best I have had outside of a proper Italian restaurant. My new favourite place.",
+    source: "Swiggy",
+    date: "February 2026",
+  },
+  {
+    id: "r6",
+    author: "Ananya P.",
+    rating: 4,
+    text: "Really great café experience in Pratap Nagar. The Blue Lagoon Mojito is a showstopper — so refreshing and photogenic. Service is excellent and the staff remembers your preferences. Small wait on weekends but absolutely worth it for the quality.",
+    source: "Zomato",
+    date: "February 2026",
+  },
+  {
+    id: "r7",
+    author: "Rohit V.",
+    rating: 5,
+    text: "Took my family here for the first time and everyone fell in love with the place. The Tandoori Paneer Pizza is exceptional — flavours you do not expect from a café. The Brownie With Ice Cream is the perfect closer. Already our family's favourite spot in Jaipur.",
+    source: "Swiggy",
+    date: "January 2026",
+  },
+  {
+    id: "r8",
+    author: "Divya L.",
+    rating: 5,
+    text: "An absolute gem in Jaipur's café scene. Every single item we ordered was impeccably crafted and beautifully presented. The Ferrero Rocher Shake deserves its own award. If you love premium café experiences, Coffee Dose is non-negotiable. See you again soon!",
+    source: "Zomato",
+    date: "January 2026",
+  },
+];
